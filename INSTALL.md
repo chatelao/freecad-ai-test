@@ -9,7 +9,8 @@ To get the latest stable version of FreeCAD, it is recommended to use the offici
 ```bash
 sudo add-apt-repository ppa:freecad-maintainers/freecad-stable
 sudo apt update
-sudo apt install freecad python3-pivy python3-pyside2.qtcore python3-pyside2.qtgui python3-pyside2.qtwidgets python3-numpy
+sudo apt install freecad freecad-doc
+sudo apt install python3-pivy python3-pyside2.qtcore python3-pyside2.qtgui python3-pyside2.qtwidgets python3-numpy
 ```
 
 ## 2. Install AI and Python Dependencies
