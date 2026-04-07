@@ -1,0 +1,20 @@
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path d="M18.9836, -11 C13.0701, -12.6927 7.14845, -14.4063 1.22766, -16.1245 " /><path d="M1.22766, 16.1245 C7.1483, 14.4064 13.0701, 12.6928 18.9836, 11 " /></g>
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path d="M0, -15.5 L17.4194, -11 " /><path d="M42, -4.65 L60, 0 " /><path d="M1.22766, -16.1245 Q0.619547, -16.301 0, -15.5 " /><path d="M1.22766, 16.1245 Q0.619547, 16.301 0, 15.5 " /><path d="M60, 0 L42, 4.65 " /><path d="M17.4194, 11 L0, 15.5 " /><path d="M0, 15.5 L0, -15.5 " /><path id= "8" d=" M 16 -11 L 42 -11 " />
+<path id= "9" d=" M 16 11 L 16 -11 " />
+<path id= "10" d=" M 42 -11 L 42 11 " />
+<path id= "11" d=" M 42 11 L 16 11 " />
+<circle cx ="28" cy ="0" r ="3.5" /><circle cx ="28" cy ="0" r ="1.5" /></g>
