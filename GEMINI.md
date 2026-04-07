@@ -9,7 +9,7 @@ Draw a Benchy with FreeCAD, keep the 3d files and STLs for 3D printing.
 
 # Howto
 - Create a first FreeCAD version of the models.
-- Derive three seperate SVG files for the top, front and side view for each part and the whole model.
-- Compare every of the three 2D views with your 2D knowledge about the model views on the perspective.
-- Fix all gaps in the 3D Model and start again generating 2D models until satisfied.
-- Export the final 2D views into a nice single PDF.
+- Export seperate valid SVG files for the top, front and side view of each part and the whole model.
+- Compare the three 2D views with your knowledge about expected elements in each of these perspective.
+- Fix the gaps to your expectations in the original 3D model and restart the validation with the 2D models.
+- Once satisfied export the final 2D views into a nice single PDF.
