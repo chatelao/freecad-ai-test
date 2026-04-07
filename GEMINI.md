@@ -18,5 +18,6 @@ Draw a Benchy with FreeCAD, keep the 3d files and STLs for 3D printing.
 7. Once satisfied, export the final model and the top, front and side view into a PDF.
 
 # See
+- https://github.com/jango-blockchained/mcp-freecad
 - https://freecad.github.io/SourceDoc/modules.html
 - https://wiki.freecad.org/Power_users_hub#General
