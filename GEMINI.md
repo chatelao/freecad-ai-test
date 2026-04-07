@@ -1,9 +1,11 @@
 # Goal
-Draw a Benchy with FreeCAD. 
+Draw a Benchy with FreeCAD.
 
 # Locations
-`/specifications` : Store relevant files, convert to .md if necessary
-`/design` : Store design / thinking steps to be reused later, delete if obsolete
+`/specifications` : Store relevant files, convert to .md if necessary.
+`/design` : Store designs / thinking steps to be reused later, delete if obsolete.
 
 # Howto
-Verify the results by comparing with the reference designs. Create a additionnal top view, front view, and side view for each model and wach model part into one PDF. Validate them with the Original as well.
+- Create top, front and side views for each part and the whole model.
+- Verify the partially and finals results by comparing them with the references / originals / specs (Improve if needed)
+- Export side views into DXF, SVG and a single PDF.
