@@ -1,0 +1,32 @@
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M -38.9176 1.5 L -48 1.5 " />
+</g>
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M 0 -30 L -15 -30 " />
+<path id= "2" d=" M 0 -30 L 0 30 " />
+<path id= "3" d=" M 0 30 L -15 30 " />
+<path id= "4" d=" M -15 -30 L -15 30 " />
+<path id= "5" d=" M -15 -25 L -24 -25 " />
+<path id= "6" d=" M -15 -13 L -24 -13 " />
+<path id= "7" d=" M -24 -25 L -24 -13 " />
+<path id= "8" d=" M -15 -10 L -35 -10 " />
+<path id= "9" d=" M -15 13 L -35 13 " />
+<path id= "10" d=" M -35 -10 L -35 13 " />
+<path id= "11" d=" M -36.1196 -6.69144 L -38.1104 -6.88313 " />
+<path id= "12" d=" M -36.1196 -6.69144 L -38.324 16.2027 " />
+<path id= "13" d=" M -38.324 16.2027 L -40.3148 16.011 " />
+<path id= "14" d=" M -38.1104 -6.88313 L -40.3148 16.011 " />
+<path id= "15" d=" M -39.5916 8.5 L -48 8.5 " />
+<path d="M-48, 1.5 L-48, 1.58775  L-48, 1.84661  L-48, 2.26359  L-48, 2.81779  L-48, 3.48141  L-48, 4.22118  L-48, 5  L-48, 5.77882  L-48, 6.51859  L-48, 7.18221  L-48, 7.73641  L-48, 8.15339  L-48, 8.41225  L-48, 8.5 " /></g>
