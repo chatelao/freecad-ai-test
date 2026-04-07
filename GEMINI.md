@@ -4,6 +4,7 @@ Draw a Benchy with FreeCAD, keep the 3d files and STLs for 3D printing.
 # Locations
 - `/` : Store the result a FreeCAD and .stl file.
 - `/specifications` : Store relevant files, convert to .md if necessary.
+- `/iamges` : Open-Source of the objects like drawing, fotos, etc.
 - `/design` : Store designs / thinking steps to be reused later, delete if obsolete.
 - `/tools` : Store scripts and other tools, delete if only of temporary value.
 
