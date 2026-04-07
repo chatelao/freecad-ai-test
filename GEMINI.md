@@ -1,5 +1,5 @@
 # Goal
-Draw a Benchy with FreeCAD.
+Draw a Benchy with FreeCAD. Verify the results by comparing with the reference designs.
 
 # Locations
 `/specifications` : Store relevant files, convert to .md if necessary
