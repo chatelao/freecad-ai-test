@@ -1,0 +1,20 @@
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M 0 0 L 0 31 " />
+<path id= "2" d=" M 0 0 L 40 0 " />
+<path id= "3" d=" M 0 31 L 40 31 " />
+<path id= "4" d=" M 40 0 L 40 31 " />
+<path id= "5" d=" M 10 5.5 L 10 25.5 " />
+<path id= "6" d=" M 10 5.5 L 35 5.5 " />
+<path id= "7" d=" M 35 5.5 L 35 25.5 " />
+<path id= "8" d=" M 10 25.5 L 35 25.5 " />
+<circle cx ="22" cy ="15.5" r ="3.5" /><path id= "10" d=" M 40 31 L 44.5 3.55271e-15 " />
+<path id= "11" d=" M 60 31 L 40 31 " />
+<path id= "12" d=" M 60 31 L 60 -7.10543e-15 " />
+<path id= "13" d=" M 60 0 L 44.5 0 " />
+</g>

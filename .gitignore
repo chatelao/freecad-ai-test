@@ -1,0 +1,3 @@
+__pycache__/
+*.FCBak
+# output/  <-- Committing views in output as required
