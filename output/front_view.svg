@@ -1,0 +1,33 @@
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M 35.5 -8.5 L 48 -8.5 " />
+</g>
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M 15.5 -15 L 35.5 -15 " />
+<path id= "2" d=" M 35.5 -15 L 35.5 8 " />
+<path id= "3" d=" M 15.5 -15 L 15.5 -5.80645 " />
+<path id= "4" d=" M 15.5 8 L 35.5 8 " />
+<path id= "5" d=" M 15.5 -15 L 15.5 -30 " />
+<path id= "6" d=" M 15.5 0 L 15.5 -5.80645 " />
+<path id= "7" d=" M 15.5 30 L 15.5 0 " />
+<path id= "8" d=" M 35.5 -1.5 L 48 -1.5 " />
+<path d="M48, -1.5 L48, -1.58775  L48, -1.84661  L48, -2.26359  L48, -2.81779  L48, -3.48141  L48, -4.22118  L48, -5  L48, -5.77882  L48, -6.51859  L48, -7.18221  L48, -7.73641  L48, -8.15339  L48, -8.41225  L48, -8.5 " /><path id= "10" d=" M 0 -30 L 15.5 -30 " />
+<path id= "11" d=" M 0 0 L 15.5 0 " />
+<path id= "12" d=" M 0 0 L 0 -30 " />
+<path id= "13" d=" M 0 30 L 15.5 30 " />
+<path id= "14" d=" M 0 30 L 0 0 " />
+<path id= "15" d=" M 15.5 15 L 24.5 15 " />
+<path id= "16" d=" M 15.5 27 L 24.5 27 " />
+<path id= "17" d=" M 24.5 15 L 24.5 27 " />
+</g>
