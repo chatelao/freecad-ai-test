@@ -1,5 +1,5 @@
 # Goal
-Draw a Benchy with FreeCAD, keep the 3d files and STLs for 3D printing.
+Draw a Benchy with FreeCAD augmented with MCP, keep the 3d files and STLs for 3D printing.
 
 # Locations
 - `/` : Store the result a FreeCAD and .stl file.
