@@ -18,7 +18,7 @@ Draw a Benchy with FreeCAD, keep the 3d files and STLs for 3D printing.
 6. Fix the gaps and deviations in the 3D model and restart the validation on step 1.
 7. Once satisfied, export the final model and the top, front and side view into a PDF.
 
-# See
+# See / Use
 - https://github.com/jango-blockchained/mcp-freecad
 - https://freecad.github.io/SourceDoc/modules.html
 - https://wiki.freecad.org/Power_users_hub#General
