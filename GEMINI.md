@@ -19,6 +19,6 @@ Draw a Benchy with FreeCAD augmented with MCP, keep the 3d files and STLs for 3D
 7. Once satisfied, export the final model and the top, front and side view into a PDF.
 
 # See / Use
-- https://github.com/jango-blockchained/mcp-freecad
+- https://github.com/jango-blockchained/mcp-freecad (Should be installed, read to run)
 - https://freecad.github.io/SourceDoc/modules.html
 - https://wiki.freecad.org/Power_users_hub#General
