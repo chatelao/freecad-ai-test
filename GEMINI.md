@@ -14,11 +14,12 @@ Draw a Benchy with FreeCAD augmented with MCP, keep the 3d files and STLs for 3D
 2. Export files for each the top, front and the side view of each part and the whole model.
 3. Compare the six views with your expectation.
 4. Render each model from 6 random views and compare to the usual views of the boat.
-5. Ensure each model is at least 99.5% accurate.
-6. Use MeshLab for deep inspection of both resulting .stl modesl
-7. Ensure both model shapes and extract the best solutions from solutions.
-8. Fix the gaps and deviations in the 3D model and restart the validation on step 1.
-9. Once satisfied, export the final model and the top, front and side view into a PDF.
+5. Verify all ".svg" have the valid XML headers as defined by the standard.
+6. Ensure each model is at least 99.5% accurate.
+7. Use MeshLab for deep inspection of both resulting .stl modesl
+8. Ensure both model shapes and extract the best solutions from solutions.
+9. Fix the gaps and deviations in the 3D model and restart the validation on step 1.
+10. Once satisfied, export the final model and the top, front and side view into a PDF.
 
 # See / Use
 - https://github.com/jango-blockchained/mcp-freecad (Should be installed, read to run)
