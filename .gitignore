@@ -1,0 +1,4 @@
+__pycache__/
+*.FCBak
+output/
+verify_output.log
