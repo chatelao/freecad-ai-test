@@ -2,7 +2,7 @@
 Draw a Benchy with FreeCAD augmented with MCP, keep the 3d files and STLs for 3D printing.
 
 # Locations
-- `/` : Store the result a FreeCAD and .stl file.
+- `/` : Store the result a FreeCAD, SCAD and .stl file.
 - `/specifications` : Store relevant files, convert to .md if necessary.
 - `/specifications` : Include SVG, DXF and PDF file format specifications and schemas for output validations.
 - `/iamges` : Open-Source of the objects like drawing, fotos, etc.
