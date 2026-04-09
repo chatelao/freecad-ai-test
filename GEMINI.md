@@ -10,11 +10,12 @@ Draw a Benchy with FreeCAD augmented with MCP, keep the 3d files and STLs for 3D
 - `/tools` : Store scripts and other tools, delete if only of temporary value.
 
 # Howto
-1. Create a FreeCAD version of the models.
+1. Create a FreeCAD and a SCAD version of the models.
 2. Export files for each the top, front and the side view of each part and the whole model.
-3. Compare the three views with your expectation.
-4. Render the model from 6 random views and compare to the usual views of the boat.
-5. Ensure the model is at least 99.5% accurate.
+3. Compare the six views with your expectation.
+4. Render each model from 6 random views and compare to the usual views of the boat.
+5. Ensure each model is at least 99.5% accurate.
+5. Ensure both model shapes and extract the best solutions from solutions.
 6. Fix the gaps and deviations in the 3D model and restart the validation on step 1.
 7. Once satisfied, export the final model and the top, front and side view into a PDF.
 
