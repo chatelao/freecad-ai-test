@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M 0 0 L 0 31 " />
+<path id= "2" d=" M 0 0 L 30 0 " />
+<path id= "3" d=" M 0 31 L 30 31 " />
+<path id= "4" d=" M 30 31 L 34 29 " />
+<path id= "5" d=" M 34 29 L 2 29 " />
+<path id= "6" d=" M 2 2 L 2 29 " />
+<path id= "7" d=" M 34 2 L 2 2 " />
+<path id= "8" d=" M 30 -6.66134e-16 L 34 2 " />
+<path id= "9" d=" M 52 11 L 34 2 " />
+<path id= "10" d=" M 52 11 L 60 15 " />
+<path id= "11" d=" M 52 20 L 34 29 " />
+<path id= "12" d=" M 52 20 L 60 16 " />
+<path id= "13" d=" M 60 15 L 60 16 " />
+<path id= "14" d=" M 52 11 L 52 20 " />
+<path id= "15" d=" M 15 5.5 L 15 25.5 " />
+<path id= "16" d=" M 15 5.5 L 35 5.5 " />
+<path id= "17" d=" M 35 5.5 L 35 25.5 " />
+<path id= "18" d=" M 15 25.5 L 35 25.5 " />
+<circle cx ="28" cy ="15.5" r ="3.5" /><circle cx ="28" cy ="15.5" r ="1.5" /></g>
+
+</svg>

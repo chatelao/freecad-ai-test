@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M -32 24.5 L -47 24.5 " />
+</g>
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M 0 0 L -15 0 " />
+<path id= "2" d=" M 0 0 L 0 30 " />
+<path id= "3" d=" M 0 30 L -15 30 " />
+<path id= "4" d=" M -15 0 L -15 30 " />
+<path id= "5" d=" M -15 30 L -15 34 " />
+<path id= "6" d=" M -1.1e-16 30 L -1.1e-16 60 " />
+<path id= "7" d=" M -12 34 L -15 34 " />
+<path id= "8" d=" M -12 52 L -12 34 " />
+<path id= "9" d=" M -12 52 L -15 52 " />
+<path id= "10" d=" M -15 52 L -15 60 " />
+<path id= "11" d=" M -15 60 L 0 60 " />
+<path id= "12" d=" M -12 34 L -12 35 " />
+<path id= "13" d=" M -15 15 L -32 15 " />
+<path id= "14" d=" M -12 35 L -32 35 " />
+<path id= "15" d=" M -32 15 L -32 35 " />
+<path d="M-47, 24.5 L-47, 24.5878  L-47, 24.8466  L-47, 25.2636  L-47, 25.8178  L-47, 26.4814  L-47, 27.2212  L-47, 28  L-47, 28.7788  L-47, 29.5186  L-47, 30.1822  L-47, 30.7364  L-47, 31.1534  L-47, 31.4122  L-47, 31.5 " /><path id= "17" d=" M -32 31.5 L -47 31.5 " />
+</g>
+
+</svg>
