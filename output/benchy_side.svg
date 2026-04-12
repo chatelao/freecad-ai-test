@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M -32 -12 L -47 -12 " />
+<path id= "2" d=" M -32 -19 L -47 -19 " />
+</g>
+<g   fill="none"
+   stroke="rgb(0, 0, 0)"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="1.0"
+   transform="scale(1, -1)"
+  >
+<path id= "1" d=" M 0 0 L -15 0 " />
+<path id= "2" d=" M -15 0 L -15 -31 " />
+<path id= "3" d=" M 0 -31 L -15 -31 " />
+<path id= "4" d=" M 0 0 L 0 -31 " />
+<path id= "5" d=" M -15 -5.5 L -32 -5.5 " />
+<path id= "6" d=" M -32 -5.5 L -32 -25.5 " />
+<path id= "7" d=" M -15 -25.5 L -32 -25.5 " />
+<path d="M-47, -19 L-47, -18.9122  L-47, -18.6534  L-47, -18.2364  L-47, -17.6822  L-47, -17.0186  L-47, -16.2788  L-47, -15.5  L-47, -14.7212  L-47, -13.9814  L-47, -13.3178  L-47, -12.7636  L-47, -12.3466  L-47, -12.0878  L-47, -12 " /></g>
+
+</svg>
