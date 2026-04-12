@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.FCStd
+*.stl
+*.FCBak
+output/
